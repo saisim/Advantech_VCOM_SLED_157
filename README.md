@@ -1,4 +1,9 @@
 # Advantech_VCOM_SLED_157
+This is fork of Advantech Linux VCOM driver (v2.3.7) adapted for SUSE Enterprise Desktop 15.7 with backported kernel 6.4.
+This kernel has patches from kernel 6.11 and original driver doesn't compiles (but original driver compiles for SUSE Enterprise Desktop 15.6 with kernel 6.4.0-150600).
+In this driver was added definition Linux Kernel like for kernel version 6.11.0 for normal compilation.
+This driver was tested on SUSE Enterprise Desktop 15.7.
+
 # Advantech Linux VCOM driver
 ## Introduction
 The Linux VCOM driver for Advantech Device Servers
