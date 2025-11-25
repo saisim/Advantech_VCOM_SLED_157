@@ -4,6 +4,8 @@ This kernel has patches from kernel 6.11 and original driver doesn't compiles (b
 In this driver was added definition of Linux Kernel like for kernel version 6.11.0, for normal compilation.
 This driver was tested on SUSE Enterprise Desktop 15.7.
 
+Tested on several devices Advantech EKI-1362-BE.
+
 # Advantech Linux VCOM driver
 ## Introduction
 The Linux VCOM driver for Advantech Device Servers
